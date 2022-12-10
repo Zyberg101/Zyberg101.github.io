@@ -10,7 +10,7 @@ My GitHub page is http://github.com/Zyberg101.
 
 * Lab 6
 
-    Lab 6, part 2, was my favorite because I have always wanted to learn how to code a simple guessing game in C Plus Plus using infinite loops. I was able to practice controlling infinite loops by using boolean variables to check if the player wanted to continue playing the game. I was also able to practice using the break keyword for while and do-while loops to terminate infinite loops instead of the entire program.
+    Lab 6, part 2, was my favorite because I have always wanted to learn how to code a simple guessing game in C Plus Plus using infinite loops. I was able to practice controlling infinite loops by using boolean variables to check if the player wanted to continue playing the game. I was also able to practice using the break keyword to terminate while and do-while loops instead of the entire program.
 
 * Lab 8
 
